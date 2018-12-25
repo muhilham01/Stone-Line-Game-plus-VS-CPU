@@ -18,13 +18,21 @@ b. Enter Player Name pada menu 1
 <br>
 c. Tampilan menu 1
 <br>
-<img width="242" alt="capture3" src="https://user-images.githubusercontent.com/39519269/50401934-fa8c6480-07c4-11e9-9e2e-409d861ad977.PNG">*c. Tampilan menu 1
+<img width="242" alt="capture3" src="https://user-images.githubusercontent.com/39519269/50401934-fa8c6480-07c4-11e9-9e2e-409d861ad977.PNG">
 
 d. Tampilan informasi pemenang
 <br>
 <img width="372" alt="capture4" src="https://user-images.githubusercontent.com/39519269/50401939-fe1feb80-07c4-11e9-8c13-b628c67b5a0c.PNG">
 
+e. Tampilan menu 2
+<br>
 <img width="337" alt="capture5" src="https://user-images.githubusercontent.com/39519269/50401944-01b37280-07c5-11e9-9af0-b362d6ec590e.PNG">
+
+f. Tampilan menu 3
+<br>
 <img width="222" alt="capture6" src="https://user-images.githubusercontent.com/39519269/50401948-0710bd00-07c5-11e9-970b-ef6d13f50685.PNG">
+
+g. Tampilan menu 4
+<br>
 <img width="323" alt="capture7" src="https://user-images.githubusercontent.com/39519269/50401951-0aa44400-07c5-11e9-97bf-1db0fcf6596f.PNG">
 
