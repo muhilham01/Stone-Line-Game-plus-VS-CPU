@@ -5,6 +5,8 @@
 
 * Program ini merupakan game stone line dimana program ini mempunya 4 mode (2 mode player vs player dan 2 mode player vs komputer).
 * Dalam 4 mode tersebut dikelompokkan menjadi 2 jenis yaitu jenis penambahan batu ( add stone ) dan pengurangan batu ( remove stone ).
+* Pada mode penambahan batu pemenang ditentukan dari siapa yang mancapai batu ke-15 terlebih dahulu. Penambahan batu pada setiap sesi yaitu antara 1 - 3 batu.
+* Pada mode pengurangan batu pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap sesi yaitu antara 1 - 3 batu.
 
 #### Tampilan Program:
 a. Menu
