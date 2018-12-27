@@ -51,7 +51,7 @@ g. Tampilan menu 4
 
 #### FLOWCHART :
 
-![menu awal edit](https://user-images.githubusercontent.com/39519269/50494407-b4016900-0a55-11e9-83fc-95424ef92432.png)
+![menu awal edit 2](https://user-images.githubusercontent.com/39519269/50494484-22462b80-0a56-11e9-9bd9-86cef32eea73.png)
 <br>
 ![menu 1](https://user-images.githubusercontent.com/39519269/50494215-7bad5b00-0a54-11e9-92b6-25025a64581a.png)
 <br>
