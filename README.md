@@ -49,3 +49,6 @@ g. Tampilan menu 4
 <br>
 <img width="323" alt="capture7" src="https://user-images.githubusercontent.com/39519269/50401951-0aa44400-07c5-11e9-97bf-1db0fcf6596f.PNG">
 
+#### FLOWCHART
+https://github.com/muhilham01/Stone-Line-Game-plus-VS-CPU/issues/3#issue-394486471
+
