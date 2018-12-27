@@ -49,7 +49,7 @@ g. Tampilan menu 4
 <br>
 <img width="323" alt="capture7" src="https://user-images.githubusercontent.com/39519269/50401951-0aa44400-07c5-11e9-97bf-1db0fcf6596f.PNG">
 
-#### FLOWCHART
+#### FLOWCHART :
 
 ![menu awal](https://user-images.githubusercontent.com/39519269/50494213-74864d00-0a54-11e9-9368-d670702bbe1c.png)
 <br>
