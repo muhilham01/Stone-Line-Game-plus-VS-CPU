@@ -1,12 +1,19 @@
 # Stone-Line-Game
 #### Muhammad Ilham Akbar / 1706042970
 #### Muhammad Hamzah / 1706043065
-* [Deskripsi](#Deskripsi-Program)
+
 * [Installation](#Installation)
-* [Penjelasan Program](#Penjelasan-Program)
-* [Flow Chart](#Flow-Chart)
-* [Contact Person](#Contact-Person)
-* [Pembagian Tugas](#Pembagian-Tugas)
+* [Deskripsi Program](#Deskripsi-Program)
+* [Tutorial Program](#Tutorial-Program)
+* [Tampilan Program](#Tampilan-Program)
+* [Flowchart](#Flowchart)
+
+## INSTALLATION
+1) Download atau clone repository (lihat pada pojok kanan atas) pilih dalam format zip.
+2) Ekstrak file zip tersebut ke dalam satu folder dan pastikan bahwa semua source code diletakkan di dalam satu branch.
+3) Jalankan dengan membuka main.c dengan menggunakan IDE C/C++ language (contoh : DEV C++).
+4) Compile dan Run source code.
+
 
 ## DESKRIPSI PROGRAM
 
@@ -16,7 +23,7 @@
 * Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
 * Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
 
-#### Tutorial Program:
+#### TUTORIAL PROGRAM
 * User memilih menu berdasarkan mode yang diinginkan.
 * Menu 1 dan 3 penambahan batu (add stone).
 * Menu 2 dan 4 pengurangan batu (remove stone).
@@ -26,7 +33,7 @@
 * Pada pengurangan batu (remove stone) pemenang ditentukan oleh siapa yang mengahabiskan batu terlebih dahulu dengan inisialisasi batu diawal sebanyak 15.
 * Pada setiap sesi baik penambahan maupun pengurangan hanya dapat melakukan 1-3 batu.
 
-#### Tampilan Program:
+#### TAMPILAN PROGRAM
 a. Menu
 <br>
 <img width="235" alt="capture" src="https://user-images.githubusercontent.com/39519269/50401695-2c9cc700-07c3-11e9-9b1e-7bf300d79ae3.PNG">
@@ -56,7 +63,7 @@ g. Tampilan menu 4
 <br>
 <img width="323" alt="capture7" src="https://user-images.githubusercontent.com/39519269/50401951-0aa44400-07c5-11e9-97bf-1db0fcf6596f.PNG">
 
-#### FLOWCHART :
+#### FLOWCHART 
 
 ![menu awal edit 2](https://user-images.githubusercontent.com/39519269/50494484-22462b80-0a56-11e9-9bd9-86cef32eea73.png)
 <br>
