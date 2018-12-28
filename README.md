@@ -1,4 +1,5 @@
 # Stone-Line-Game
+#### Kelas Pemrograman Lanjut - 02 : 
 #### Muhammad Ilham Akbar / 1706042970
 #### Muhammad Hamzah / 1706043065
 
