@@ -4,7 +4,7 @@
 
 * [Installation](#Installation)
 * [Deskripsi Program](#Deskripsi-Program)
-* [Penjelasan Fungsi Modular](#Penjelasan-Fungsi-Modular)
+* [Penjelasan Fungsi Modular Utama](#Penjelasan-Fungsi-Modular-Utama)
 * [Tutorial Program](#Tutorial-Program)
 * [Tampilan Program](#Tampilan-Program)
 * [Flowchart](#Flowchart)
@@ -25,7 +25,7 @@
 * Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
 * Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
 
-## PENJELASAN FUNGSI MODULAR
+## PENJELASAN FUNGSI MODULAR UTAMA
 <br>
 
 1) Fungsi int GameA()
@@ -50,6 +50,12 @@
 <br>Fungsi ini digunakan pada menu no 4 yaitu sebagai tipe game untuk mengambil batu (remove stone) dengan mode player vs komputer. Secara umum memiliki algoritma yang sama dengan menu no 2 tetapi pada algotritma AI komputer menggunakan algoritma random.
 <br>
 <p align="center"> <img width="318" alt="modular game d" src="https://user-images.githubusercontent.com/39519269/50511259-79341b00-0abf-11e9-8ee4-ae7bb9cc3b42.PNG">
+<br>
+
+5. Fungsi void show_current_line(StackNodePtr current)
+<br>Fungsi ini menampilkan jumlah batu yang ada pada saat itu, baik itu dalam tipe game menambah batu (add stone) atau tipe game mengambil batu (remove stone).
+<br>
+<p align="center"><img width="388" alt="jumlah batu" src="https://user-images.githubusercontent.com/39519269/50511274-8bae5480-0abf-11e9-9a3f-f3ff878e5909.PNG">
 <br>
     
 ## TUTORIAL PROGRAM
