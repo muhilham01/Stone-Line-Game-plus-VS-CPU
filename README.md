@@ -3,10 +3,10 @@
 #### Muhammad Hamzah / 1706043065
 #### Deksripsi Program:
 
-* Program ini merupakan game stone line dimana program ini mempunya 4 mode (2 mode player vs player dan 2 mode player vs komputer).
-* Dalam 4 mode tersebut dikelompokkan menjadi 2 jenis yaitu jenis penambahan batu ( add stone ) dan pengurangan batu ( remove stone ).
-* Pada mode penambahan batu (add stone) pemenang ditentukan dari siapa yang mancapai batu ke-15 terlebih dahulu. Penambahan batu pada setiap sesi yaitu antara 1 - 3 batu.
-* Pada mode pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap sesi yaitu antara 1 - 3 batu.
+* Program ini merupakan game stone line dimana program ini mempunyai 4 mode (2 mode player vs player dan 2 mode player vs komputer).
+* Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah(add stone) dan game mengambil batu (remove stone).
+* Pada tipe penambahan batu (add stone) pemenang ditentukan dari siapa yang mancapai batu ke-15 terlebih dahulu. Penambahan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu.
+* Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
 * Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
 
 #### Tutorial Program:
@@ -14,9 +14,9 @@
 * Menu 1 dan 3 penambahan batu (add stone).
 * Menu 2 dan 4 pengurangan batu (remove stone).
 * Menu 1 dan 2 merupakan player vs player.
-* Menu 3 dan 4 merupakan player vs computer.
+* Menu 3 dan 4 merupakan player vs komputer.
 * Pada penambahan batu (add stone) pemenang ditentukan oleh siapa yang mencapai batu ke 15 terlebih dahulu.
-* Pada pengurangan batu (remove stone) pemenang ditentukan oleh siapa yang mengahabiskan batu terlebih dahulu dengan inisialisasi batu sebanyak 15
+* Pada pengurangan batu (remove stone) pemenang ditentukan oleh siapa yang mengahabiskan batu terlebih dahulu dengan inisialisasi batu diawal sebanyak 15.
 * Pada setiap sesi baik penambahan maupun pengurangan hanya dapat melakukan 1-3 batu.
 
 #### Tampilan Program:
