@@ -64,10 +64,14 @@ e. Tampilan menu 2
 f. Tampilan menu 3
 <br>
 <img width="222" alt="capture6" src="https://user-images.githubusercontent.com/39519269/50401948-0710bd00-07c5-11e9-970b-ef6d13f50685.PNG">
+<br>
+<img width="287" alt="com 3" src="https://user-images.githubusercontent.com/39519269/50505677-aecd0a00-0aa7-11e9-9833-94b346dc2b4a.PNG">
 
 g. Tampilan menu 4
 <br>
 <img width="323" alt="capture7" src="https://user-images.githubusercontent.com/39519269/50401951-0aa44400-07c5-11e9-97bf-1db0fcf6596f.PNG">
+<br>
+<img width="326" alt="com 4" src="https://user-images.githubusercontent.com/39519269/50505680-b1c7fa80-0aa7-11e9-8b8c-0bd66ef6290f.PNG">
 
 ## FLOWCHART 
 
