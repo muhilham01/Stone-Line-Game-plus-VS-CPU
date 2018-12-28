@@ -4,6 +4,7 @@
 
 * [Installation](#Installation)
 * [Deskripsi Program](#Deskripsi-Program)
+* [Penjelasan Fungsi Modular](#Penjelasan-Fungsi-Modular)
 * [Tutorial Program](#Tutorial-Program)
 * [Tampilan Program](#Tampilan-Program)
 * [Flowchart](#Flowchart)
@@ -22,6 +23,8 @@
 * Pada tipe penambahan batu (add stone) pemenang ditentukan dari siapa yang mancapai batu ke-15 terlebih dahulu. Penambahan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu.
 * Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
 * Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
+
+## PENJELASAN FUNGSI MODULAR
 
 ## TUTORIAL PROGRAM
 * User memilih menu berdasarkan mode yang diinginkan.
