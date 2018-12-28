@@ -1,5 +1,5 @@
 # Stone-Line-Game
-* [Deskripsi](#deskripsi-program)
+* [Deskripsi](#Deskripsi-Program)
 * [Installation](#Installation)
 * [Penjelasan Program](#Penjelasan-Program)
 * [Flow Chart](#Flow-Chart)
