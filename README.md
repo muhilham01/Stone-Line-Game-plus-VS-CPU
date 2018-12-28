@@ -23,7 +23,7 @@
 * Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
 * Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
 
-#### TUTORIAL PROGRAM
+## TUTORIAL PROGRAM
 * User memilih menu berdasarkan mode yang diinginkan.
 * Menu 1 dan 3 penambahan batu (add stone).
 * Menu 2 dan 4 pengurangan batu (remove stone).
@@ -33,7 +33,7 @@
 * Pada pengurangan batu (remove stone) pemenang ditentukan oleh siapa yang mengahabiskan batu terlebih dahulu dengan inisialisasi batu diawal sebanyak 15.
 * Pada setiap sesi baik penambahan maupun pengurangan hanya dapat melakukan 1-3 batu.
 
-#### TAMPILAN PROGRAM
+## TAMPILAN PROGRAM
 a. Menu
 <br>
 <img width="235" alt="capture" src="https://user-images.githubusercontent.com/39519269/50401695-2c9cc700-07c3-11e9-9b1e-7bf300d79ae3.PNG">
@@ -63,7 +63,7 @@ g. Tampilan menu 4
 <br>
 <img width="323" alt="capture7" src="https://user-images.githubusercontent.com/39519269/50401951-0aa44400-07c5-11e9-97bf-1db0fcf6596f.PNG">
 
-#### FLOWCHART 
+## FLOWCHART 
 
 ![menu awal edit 2](https://user-images.githubusercontent.com/39519269/50494484-22462b80-0a56-11e9-9bd9-86cef32eea73.png)
 <br>
