@@ -1,7 +1,15 @@
 # Stone-Line-Game
+* [Deskripsi](#deskripsi-program)
+* [Installation](#Installation)
+* [Penjelasan Program](#Penjelasan-Program)
+* [Flow Chart](#Flow-Chart)
+* [Contact Person](#Contact-Person)
+* [Pembagian Tugas](#Pembagian-Tugas)
+
 #### Muhammad Ilham Akbar / 1706042970
 #### Muhammad Hamzah / 1706043065
-#### Deksripsi Program:
+
+## Deksripsi Program:
 
 * Program ini merupakan game stone line dimana program ini mempunyai 4 mode (2 mode player vs player dan 2 mode player vs komputer).
 * Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah(add stone) dan game mengambil batu (remove stone).
