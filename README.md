@@ -20,15 +20,38 @@
 
 * Program game stone line ini terdiri dari 6 menu (termasuk menu exit).
 * Program ini mempunyai 4 mode game (2 mode player vs player dan 2 mode player vs komputer).
-* Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah(add stone) dan game mengambil batu (remove stone).
+* Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah batu (add stone) dan game mengambil batu (remove stone).
 * Pada tipe penambahan batu (add stone) pemenang ditentukan dari siapa yang mancapai batu ke-15 terlebih dahulu. Penambahan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu.
 * Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
 * Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
 
 ## PENJELASAN FUNGSI MODULAR
-<p align="center"> 
+<br>
+
+1) Fungsi int GameA()
+<br>Fungsi ini digunakan pada menu no 1 yaitu sebagai tipe game untuk menambah batu (add stone) dengan mode player vs player. Penambahan batu ini akan terus berlangsung hingga batu mencapai batu ke-15. Penambahan batu dilakukan dengan cara memanggil fungsi push() dan kemudian pemenang akan ditentukan dengan memanggil fungsi pop() ketika batu sudah mencapai yang ke -15.
+<br>
+<p align="center"> <img width="332" alt="modular game a" src="https://user-images.githubusercontent.com/39519269/50511251-72a5a380-0abf-11e9-94aa-478b52022111.PNG">
+<br>
+
+2) Fungsi int GameB()
+<br>Fungsi ini digunakan pada menu no 2 yaitu sebagai tipe game untuk mengambil batu (remove stone) dengan mode player vs player. Pengambilan batu ini akan terus berlangsung hingga batu habis. Pengambilan batu dilakukan dengan cara memanggil fungsi pop() dan kemudian pemenang akan ditentukan dengan memanggil fungsi pop() ketika batu sudah habis.
+<br>
+<p align="center"> <img width="320" alt="modular game b" src="https://user-images.githubusercontent.com/39519269/50511253-75a09400-0abf-11e9-9557-ea017ac54a99.PNG">
+<br>
   
+3. Fungsi int GameC()
+<br>Fungsi ini digunakan pada menu no 3 yaitu sebagai tipe game untuk menambah batu (add stone) dengan mode player vs komputer. Secara umum memiliki algoritma yang sama dengan menu no 1 tetapi pada algotritma AI komputer menggunakan algoritma random.
+<br>
+<p align="center"> <img width="331" alt="modular game c" src="https://user-images.githubusercontent.com/39519269/50511257-76d1c100-0abf-11e9-8452-a9abd9bc5e97.PNG">
+<br>
   
+4. Fungsi int GameD()
+<br>Fungsi ini digunakan pada menu no 4 yaitu sebagai tipe game untuk mengambil batu (remove stone) dengan mode player vs komputer. Secara umum memiliki algoritma yang sama dengan menu no 2 tetapi pada algotritma AI komputer menggunakan algoritma random.
+<br>
+<p align="center"> <img width="318" alt="modular game d" src="https://user-images.githubusercontent.com/39519269/50511259-79341b00-0abf-11e9-8ee4-ae7bb9cc3b42.PNG">
+<br>
+    
 ## TUTORIAL PROGRAM
 * User memilih menu berdasarkan mode yang diinginkan.
 * Menu 1 dan 3 penambahan batu (add stone).
@@ -38,6 +61,8 @@
 * Pada penambahan batu (add stone) pemenang ditentukan oleh siapa yang mencapai batu ke 15 terlebih dahulu.
 * Pada pengurangan batu (remove stone) pemenang ditentukan oleh siapa yang mengahabiskan batu terlebih dahulu dengan inisialisasi batu diawal sebanyak 15.
 * Pada setiap sesi baik penambahan maupun pengurangan hanya dapat melakukan 1-3 batu.
+<br>
+<p align="center"> <img width="430" alt="help" src="https://user-images.githubusercontent.com/39519269/50511275-8ea94500-0abf-11e9-8099-aa40a55163a6.PNG">
 
 ## TAMPILAN PROGRAM
 a. Menu
