@@ -27,7 +27,10 @@
 *	Menu 2 (GAME B) : game tipe remove stone dengan 2 player
 *	Menu 3 (GAME C) : sama seperti GAME A, namun melawan Computer (CPU)
 *	Menu 4 (GAME D) : sama seperti GAME B,  namun melawan CPU
-
+<br>
+<p align="center"> <img width="430" alt="help" src="https://user-images.githubusercontent.com/39519269/50511275-8ea94500-0abf-11e9-8099-aa40a55163a6.PNG">
+<br>
+  
 ## PENJELASAN FUNGSI MODULAR UTAMA
 <br>
 
