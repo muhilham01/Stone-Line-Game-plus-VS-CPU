@@ -34,16 +34,7 @@
 1) Fungsi int GameA()
 <br>Fungsi ini digunakan pada menu no 1 yaitu sebagai tipe game untuk menambah batu (add stone) dengan mode player vs player. Penambahan batu ini akan terus berlangsung hingga batu mencapai batu ke-15. Penambahan batu dilakukan dengan cara memanggil fungsi push() dan kemudian pemenang akan ditentukan dengan memanggil fungsi pop() ketika batu sudah mencapai yang ke -15.
 <br>
-<p align="center"> <img width="332" alt="modular game a" src="https://user-images.githubusercontent.com/39519269/50511251-72a5a380-0abf-11e9-94aa-478b•	Program game stone line ini terdiri dari 6 menu (termasuk menu exit) *untuk memudahkan penggunaan program game ini*.
-•	Program ini mempunyai 4 mode game (2 mode  *game* player vs player dan 2 mode *game* player vs *computer*).
-•	Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah batu (add stone) dan game mengambil batu (remove stone).
-•	Pada *game* tipe *add stone*, pemenang ditentukan dari *batu siapa yang merupakan batu ke-15 dari barisan. Batu pertama dihitung dari batu yang pertama ada di barisan, kemudian berlanjut ke batu kedua dan seterusnya. Game dimulai dengan tidak ada batu dalam barisan. Player/CPU bergiliran menambahkan batu ke barisan.* Penambahan batu pada setiap giliran *hanya dapat dilakukan dengan menambahkan 1–3 batu*.
-•	Pada *game* tipe *remove stone,* pemenang ditentukan dari siapa yang *dapat mengambil batu yang terakhir ada di barisan. Game dimulai dengan sebuah barisan berisi 15 batu. Player/CPU bergiliran mengambil batu ke barisan. Pengambilan batu pada setiap giliran hanya dapat dilakukan dengan mengambil 1–3 batu*.
-•	*Menu 1 (GAME A) : game tipe add stone dengan 2 player*
-•	*Menu 2 (GAME B) : game tipe remove stone dengan 2 player*
-•	*Menu 3 (GAME C) : sama seperti GAME A, namun melawan Computer (CPU)*
-•	*Menu 4 (GAME D) : sama seperti GAME B,  namun melawan CPU*
-2022111.PNG">
+<p align="center"> 
 <br>
 
 2) Fungsi int GameB()
