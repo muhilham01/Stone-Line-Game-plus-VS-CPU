@@ -37,7 +37,7 @@
 1) Fungsi int GameA()
 <br>Fungsi ini digunakan pada menu no 1 yaitu sebagai tipe game untuk menambah batu (add stone) dengan mode player vs player. Penambahan batu ini akan terus berlangsung hingga batu mencapai batu ke-15. Penambahan batu dilakukan dengan cara memanggil fungsi push() dan kemudian pemenang akan ditentukan dengan memanggil fungsi pop() ketika batu sudah mencapai yang ke -15.
 <br>
-<p align="center"> 
+<p align="center"> <img width="332" alt="modular game a" src="https://user-images.githubusercontent.com/39519269/50511251-72a5a380-0abf-11e9-94aa-478b52022111.PNG">
 <br>
 
 2) Fungsi int GameB()
