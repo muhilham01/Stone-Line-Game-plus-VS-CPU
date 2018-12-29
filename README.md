@@ -18,13 +18,15 @@
 
 
 ## DESKRIPSI PROGRAM
-
-* Program game stone line ini terdiri dari 6 menu (termasuk menu exit).
-* Program ini mempunyai 4 mode game (2 mode player vs player dan 2 mode player vs komputer).
-* Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah batu (add stone) dan game mengambil batu (remove stone).
-* Pada tipe penambahan batu (add stone) pemenang ditentukan dari siapa yang mancapai batu ke-15 terlebih dahulu. Penambahan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu.
-* Pada tipe pengurangan remove (remove stone) pemenang ditentukan dari siapa yang menghabiskan terlebih dahulu. Pengurangan batu pada setiap giliran untuk masing-masing player dan komputer yaitu antara 1 - 3 batu. 
-* Pada menu 3 dan 4 player dapat melawan komputer, dengan menu no 3 penambahan batu (add stone) dan menu no 4 pengurangan batu (remove stone).
+*	Program game stone line ini terdiri dari 6 menu (termasuk menu exit) untuk memudahkan penggunaan program game ini.
+*	Program ini mempunyai 4 mode game (2 mode  game player vs player dan 2 mode game player vs computer).
+*	Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah batu (add stone) dan game mengambil batu (remove stone).
+*	Pada game tipe add stone, pemenang ditentukan dari batu siapa yang merupakan batu ke-15 dari barisan. Batu pertama dihitung dari batu yang pertama ada di barisan, kemudian berlanjut ke batu kedua dan seterusnya. Game dimulai dengan tidak ada batu dalam barisan. Player/CPU bergiliran menambahkan batu ke barisan. Penambahan batu pada setiap giliran hanya dapat dilakukan dengan menambahkan 1–3 batu.
+*	Pada game tipe remove stone, pemenang ditentukan dari siapa yang dapat mengambil batu yang terakhir ada di barisan. Game dimulai dengan sebuah barisan berisi 15 batu. Player/CPU bergiliran mengambil batu ke barisan. Pengambilan batu pada setiap giliran hanya dapat dilakukan dengan mengambil 1–3 batu.
+*	Menu 1 (GAME A) : game tipe add stone dengan 2 player
+*	Menu 2 (GAME B) : game tipe remove stone dengan 2 player
+*	Menu 3 (GAME C) : sama seperti GAME A, namun melawan Computer (CPU)
+*	Menu 4 (GAME D) : sama seperti GAME B,  namun melawan CPU
 
 ## PENJELASAN FUNGSI MODULAR UTAMA
 <br>
@@ -32,7 +34,16 @@
 1) Fungsi int GameA()
 <br>Fungsi ini digunakan pada menu no 1 yaitu sebagai tipe game untuk menambah batu (add stone) dengan mode player vs player. Penambahan batu ini akan terus berlangsung hingga batu mencapai batu ke-15. Penambahan batu dilakukan dengan cara memanggil fungsi push() dan kemudian pemenang akan ditentukan dengan memanggil fungsi pop() ketika batu sudah mencapai yang ke -15.
 <br>
-<p align="center"> <img width="332" alt="modular game a" src="https://user-images.githubusercontent.com/39519269/50511251-72a5a380-0abf-11e9-94aa-478b52022111.PNG">
+<p align="center"> <img width="332" alt="modular game a" src="https://user-images.githubusercontent.com/39519269/50511251-72a5a380-0abf-11e9-94aa-478b•	Program game stone line ini terdiri dari 6 menu (termasuk menu exit) *untuk memudahkan penggunaan program game ini*.
+•	Program ini mempunyai 4 mode game (2 mode  *game* player vs player dan 2 mode *game* player vs *computer*).
+•	Keempat mode game tersebut dikelompokkan menjadi 2 tipe game, yaitu game menambah batu (add stone) dan game mengambil batu (remove stone).
+•	Pada *game* tipe *add stone*, pemenang ditentukan dari *batu siapa yang merupakan batu ke-15 dari barisan. Batu pertama dihitung dari batu yang pertama ada di barisan, kemudian berlanjut ke batu kedua dan seterusnya. Game dimulai dengan tidak ada batu dalam barisan. Player/CPU bergiliran menambahkan batu ke barisan.* Penambahan batu pada setiap giliran *hanya dapat dilakukan dengan menambahkan 1–3 batu*.
+•	Pada *game* tipe *remove stone,* pemenang ditentukan dari siapa yang *dapat mengambil batu yang terakhir ada di barisan. Game dimulai dengan sebuah barisan berisi 15 batu. Player/CPU bergiliran mengambil batu ke barisan. Pengambilan batu pada setiap giliran hanya dapat dilakukan dengan mengambil 1–3 batu*.
+•	*Menu 1 (GAME A) : game tipe add stone dengan 2 player*
+•	*Menu 2 (GAME B) : game tipe remove stone dengan 2 player*
+•	*Menu 3 (GAME C) : sama seperti GAME A, namun melawan Computer (CPU)*
+•	*Menu 4 (GAME D) : sama seperti GAME B,  namun melawan CPU*
+2022111.PNG">
 <br>
 
 2) Fungsi int GameB()
@@ -60,14 +71,15 @@
 <br>
     
 ## TUTORIAL PROGRAM
-* User memilih menu berdasarkan mode yang diinginkan.
-* Menu 1 dan 3 penambahan batu (add stone).
-* Menu 2 dan 4 pengurangan batu (remove stone).
-* Menu 1 dan 2 merupakan player vs player.
+* User akan melihat tampilan pembuka, setelah itu akan ada tampilan menu  utama di mana user akan diminta memilih menu sesuai keinginan.
+* Pilih Menu 1 atau 3 untuk memilih game tipe menambah batu (add stone).
+* Pilih Menu 2 atau 4 untuk memilih game tipe mengambil batu (remove stone).
+* Menu 1 dan 2 merupakan game player vs player.
 * Menu 3 dan 4 merupakan player vs komputer.
-* Pada penambahan batu (add stone) pemenang ditentukan oleh siapa yang mencapai batu ke 15 terlebih dahulu.
-* Pada pengurangan batu (remove stone) pemenang ditentukan oleh siapa yang mengahabiskan batu terlebih dahulu dengan inisialisasi batu diawal sebanyak 15.
-* Pada setiap sesi baik penambahan maupun pengurangan hanya dapat melakukan 1-3 batu.
+* Menu 3 dan 4 merupakan game player vs computer (CPU).
+•	Pada game tipe add stone, jadilah yang pertama menambahkan batu ke-15 untuk menang.
+•	Pada game tipe remove stone, jadilah yang mengambil batu terakhir untuk menang.
+•	Tambahkan/ambil batu sebanyak 1–3 batu pada saat giliran.
 <br>
 <p align="center"> <img width="430" alt="help" src="https://user-images.githubusercontent.com/39519269/50511275-8ea94500-0abf-11e9-8099-aa40a55163a6.PNG">
 
